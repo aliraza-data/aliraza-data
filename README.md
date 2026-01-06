@@ -2,8 +2,6 @@
 
 <p align="center">
 I'm a Computer Science undergraduate working as a Data Analyst, focused on data cleaning, exploratory analysis, and interactive dashboards. I enjoy turning real-world datasets into clear, actionable insights using SQL, Excel, Python, and Power BI.
-📍 Pakistan • 📧 your-email@gmail.com
-
 </p>
 
 <p align="center">
