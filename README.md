@@ -1,5 +1,36 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Data analytics projects using real-world datasets, focusing on SQL-based analysis, Python data exploration, and interactive dashboards with Power BI and Excel. I am also refining my GitHub portfolio to showcase end-to-end analytics workflows clearly.<br><br>👯 I’m looking to collaborate on<br>Data analytics and business intelligence projects, especially those involving data cleaning, exploratory data analysis, dashboard building, and insight-driven reporting.<br><br>🤝 I’m looking for help with<br>Advanced analytics use cases, performance optimization in SQL, storytelling with dashboards, and best practices for presenting insights to non-technical stakeholders.<br><br>🌱 I’m currently learning<br>Advanced SQL queries, Python for data analysis, Power BI DAX, data visualization best practices, and applied analytics through certifications and bootcamps.<br><br>💬 Ask me about<br>SQL queries, Python data analysis, Power BI dashboards, Excel reporting, data cleaning techniques, and how to structure analytics projects for GitHub and portfolios.<br><br>⚡ Fun fact<br>I enjoy turning messy datasets into clean insights and prefer analytics-driven decision-making over guesswork.
+<h1 align="center">Hi 👋, I'm Ali Raza</h1>
+
+<p align="center">
+Data Analytics Enthusiast | Turning Data into Insights
+</p>
+
+<p align="center">
+📍 Pakistan &nbsp;|&nbsp;
+📧 ali.raza.dataa@gmail.com &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/ali-raza-o/">LinkedIn</a>
+</p>
+
+---
+
+## 💫 About Me
+
+🔭 **I’m currently working on**  
+Data analytics projects using real-world datasets, focusing on SQL-based analysis, Python data exploration, and interactive dashboards with Power BI and Excel. I am also refining my GitHub portfolio to clearly showcase end-to-end analytics workflows.
+
+👯 **I’m looking to collaborate on**  
+Data analytics and business intelligence projects, especially those involving data cleaning, exploratory data analysis, dashboard building, and insight-driven reporting.
+
+🤝 **I’m looking for help with**  
+Advanced analytics use cases, SQL performance optimization, dashboard storytelling, and best practices for presenting insights to non-technical stakeholders.
+
+🌱 **I’m currently learning**  
+Advanced SQL queries, Python for data analysis, Power BI DAX, data visualization best practices, and applied analytics through certifications and bootcamps.
+
+💬 **Ask me about**  
+SQL queries, Python data analysis, Power BI dashboards, Excel reporting, data cleaning techniques, and how to structure analytics projects for GitHub portfolios.
+
+⚡ **Fun fact**  
+I enjoy turning messy datasets into clean, actionable insights and prefer analytics-driven decision-making over guesswork.
 
 
 ## 🌐 Socials:
