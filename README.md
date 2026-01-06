@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 
 <p align="center">
-I'm a Computer Science undergraduate working as a Data Analyst, with hands-on experience in data cleaning, exploratory data analysis, and data visualization. I enjoy working with real-world datasets to uncover patterns, build interactive dashboards, and support data-driven decision-making using tools like SQL, Excel, Python, and Power BI.
-
-I have worked on analytics projects involving large datasets and enjoy transforming raw data into clear, actionable insights. Alongside my technical work, I actively apply data-driven thinking in student leadership roles to improve engagement and planning outcomes.
-
+I'm a Computer Science undergraduate working as a Data Analyst, focused on data cleaning, exploratory analysis, and interactive dashboards. I enjoy turning real-world datasets into clear, actionable insights using SQL, Excel, Python, and Power BI.
 📍 Pakistan • 📧 your-email@gmail.com
 
 </p>
